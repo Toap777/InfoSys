@@ -1,0 +1,2 @@
+# InfoSys
+Ein Studienbeispielprojekt
